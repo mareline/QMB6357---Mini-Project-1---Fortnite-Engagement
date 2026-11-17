@@ -33,7 +33,6 @@ py -m pip install -r requirements.txt
 py fetch_data.py        # pulls the data, writes the CSVs, prints a data-quality summary
 ```
 
-The other scripts are optional extras for the interview side of the project (see the end of this README).
 On Windows, if island titles with emoji cause an error in the console, run `set PYTHONIOENCODING=utf-8` first.
 No API key is needed.
 

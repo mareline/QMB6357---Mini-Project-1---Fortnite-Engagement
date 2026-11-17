@@ -5,3 +5,6 @@ raw/
 # Python cache
 __pycache__/
 *.pyc
+
+# Private PM interview prep (not part of the class assignment)
+pm_prototypes/

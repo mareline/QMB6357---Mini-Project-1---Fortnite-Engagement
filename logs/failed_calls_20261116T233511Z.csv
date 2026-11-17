@@ -1,0 +1,5 @@
+time_utc,path,params,status,reason
+2026-11-16T23:35:33+00:00,/islands/7595-3862-7607,{},404,"{""errorCode"":""errors.com.epicgames.fne-public-api.not_found"",""errorMessage"":""Not found"",""uuid"":""4a5c9e9a-9d7c-4e10-b210-30941bf2908a""}"
+2026-11-16T23:35:33+00:00,/islands/7595-3862-7607/metrics/day,"{""from"": ""2026-11-09T00:00:00.000Z"", ""to"": ""2026-11-16T00:00:00.000Z""}",404,"{""errorCode"":""errors.com.epicgames.fne-public-api.not_found"",""errorMessage"":""Not found"",""uuid"":""ab0008bd-6ab4-42e1-a9bc-4fd9380e7e27""}"
+2026-11-16T23:36:44+00:00,/islands/4809-6981-3892,{},404,"{""errorCode"":""errors.com.epicgames.fne-public-api.not_found"",""errorMessage"":""Not found"",""uuid"":""68199b08-3771-4050-a5c2-90d8070329e7""}"
+2026-11-16T23:36:45+00:00,/islands/4809-6981-3892/metrics/day,"{""from"": ""2026-11-09T00:00:00.000Z"", ""to"": ""2026-11-16T00:00:00.000Z""}",404,"{""errorCode"":""errors.com.epicgames.fne-public-api.not_found"",""errorMessage"":""Not found"",""uuid"":""fd6af1ef-1404-4ad7-af94-10ff501a5b8b""}"

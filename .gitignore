@@ -1,0 +1,7 @@
+# Secrets (only needed if Epic ever requires OAuth credentials)
+.env
+# Raw JSON responses (large, re-creatable, audit copy kept locally)
+raw/
+# Python cache
+__pycache__/
+*.pyc
